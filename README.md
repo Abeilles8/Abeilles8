@@ -2,7 +2,7 @@
 ![](https://github.com/Abeilles8/Abeilles8/blob/main/icon/header_.png)
 ![](https://komarev.com/ghpvc/?username=Abeilles8&color=blueviolet)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeilles8&layout=compact&theme=midnight-purple" alt="Abeilles8" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abeilles8&show_icons=true&theme=midnight-purple" alt="Abeilles8" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abeilles8&show_icons=true&theme=midnight-purple" alt="Abeilles8" /><p>
 <!--
 **Abeilles8/Abeilles8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
