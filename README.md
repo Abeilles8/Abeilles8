@@ -2,9 +2,8 @@
 
 <div align="center"><img src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/header_.png"></div>
 <img src="https://komarev.com/ghpvc/?username=Abeilles8&color=blueviolet">
-<p align="left">
-🌱 I’m currently learning RubyonRails  
-</p>
+
+ 🌱 I’m currently learning **RubyonRails**  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
