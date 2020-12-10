@@ -5,7 +5,7 @@
 <p align="left">
 🌱 I’m currently learning RubyonRails  
 </p>
-<p align="right"><img src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/skatetocat.png" alt="cat" width="200" height="200"/></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
