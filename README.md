@@ -8,12 +8,14 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1611743812~hmac=29eb85cd5eb120011c7216705c181041" alt="html" width="40" height="40"/></a></code>
-  <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1611744302~hmac=eaac0efcd3b900d548f33be7d565dc46" alt="css" width="40" height="40"/></a></code>
+<p align="center">
+ 
+  <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1611743812~hmac=29eb85cd5eb120011c7216705c181041" alt="html" height="40"></a></code>
+  <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1611744302~hmac=eaac0efcd3b900d548f33be7d565dc46" alt="css" height="40"></a></code>
   <code><a href="https://getbootstrap.jp" target="_blank">
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/></a></code>
-  <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919842.svg?token=exp=1611747549~hmac=58707cf692af3b4a731bfbb3381ab056" alt="ruby" width="40" height="40"/></code>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40"></a></code>
+  <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919842.svg?token=exp=1611747549~hmac=58707cf692af3b4a731bfbb3381ab056" alt="ruby" height="40"></code>
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"></code>
  
 </p>
 
