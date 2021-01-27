@@ -7,10 +7,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/file_type_html.png" alt="html" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src=src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/file_type_css.png" alt="css" width="40" height="40"/></a>
-  <a href="https://getbootstrap.jp" target="_blank"> <img src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/file_type_bootstrap.png" alt="bootstrap" width="40" height="40"/></a>
-  <img src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/file_type_ruby.png" alt="ruby" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1611743812~hmac=29eb85cd5eb120011c7216705c181041" alt="html" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1611744302~hmac=eaac0efcd3b900d548f33be7d565dc46" alt="css" width="40" height="40"/></a>
+  <a href="https://getbootstrap.jp" target="_blank">
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/></a>
+  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919842.svg?token=exp=1611747549~hmac=58707cf692af3b4a731bfbb3381ab056" alt="ruby" width="40" height="40"/>
 </p>
 
 <i>
