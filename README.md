@@ -11,9 +11,9 @@
 <p align="center">
  
   <code><a href="https://www.w3.org/html/">
-   <img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1611743812~hmac=29eb85cd5eb120011c7216705c181041" alt="html" height="40"></a></code>
+   <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1611838989~hmac=cbcf842dd998e93e3a949ad40577cdce" alt="html" height="40"></a></code>
   <code><a href="https://www.w3schools.com/css/">
-   <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1611744302~hmac=eaac0efcd3b900d548f33be7d565dc46" alt="css" height="40"></a></code>
+   <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1611839239~hmac=117f8458b5a51e227fd402aaf74e27eb" alt="css" height="40"></a></code>
   <code><a href="https://getbootstrap.jp">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40">    </a></code>
   <code><a href="https://rubyonrails.org">
