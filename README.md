@@ -17,7 +17,7 @@
   <code><a href="https://getbootstrap.jp">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40">    </a></code>
   <code><a href="https://rubyonrails.org">
-   <img src="https://www.flaticon.com/svg/vstatic/svg/919/919842.svg?token=exp=1611747549~hmac=58707cf692af3b4a731bfbb3381ab056" alt="ruby" height="40"></a></code>
+   <img src="https://www.flaticon.com/svg/vstatic/svg/919/919842.svg?token=exp=1611839366~hmac=48bc7b15a4856043369b10e02d44acce" alt="ruby" height="40"></a></code>
   <code>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"></code>
   <code><a href="https://code.visualstudio.com/">
