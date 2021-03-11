@@ -26,6 +26,11 @@
 
 ---
 
+<h3 align="left">🎧Spotify Playing</h3>
+![Spotify](https://open.spotify.com/user/bob.877)
+
+---
+
 <i>
  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeilles8&layout=compact&theme=midnight-purple" alt="Abeilles8" />
  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Abeilles8&show_icons=true&theme=vision-friendly-dark" alt="Abeilles8" />
