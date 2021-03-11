@@ -27,7 +27,8 @@
 ---
 
 <h3 align="left">🎧Spotify Playing</h3>
-![Spotify](https://open.spotify.com/user/bob.877)
+
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bob.877&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
