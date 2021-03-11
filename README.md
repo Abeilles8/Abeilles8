@@ -7,7 +7,7 @@
  
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="center">
  
   <code><a href="https://www.w3.org/html/">
@@ -26,9 +26,9 @@
 
 ---
 
-<h3 align="left">🎧Spotify Playing</h3>
+<h2 align="left">🎧Spotify</h2>
 
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bob.877&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bob.877&cover_image=true&theme=default)](https://open.spotify.com/user/bob.877)
 
 ---
 
