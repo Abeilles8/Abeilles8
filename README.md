@@ -26,14 +26,14 @@
 
 ---
 
-<h2 align="left">🎧Spotify</h2>
-
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bob.877&cover_image=true&theme=default)](https://open.spotify.com/user/bob.877)
-
----
-
 <i>
  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeilles8&layout=compact&theme=outrun" alt="Abeilles8" />
  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Abeilles8&show_icons=true&theme=outrun" alt="Abeilles8" />
  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abeilles8&show_icons=true&theme=dracula" alt="Abeilles8" />
 </i>
+
+---
+
+<h2 align="left">🎧Spotify</h2>
+
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bob.877&cover_image=true&theme=default)](https://open.spotify.com/user/bob.877)
