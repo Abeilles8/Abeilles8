@@ -3,6 +3,9 @@
 <div align="center"><img src="https://github.com/Abeilles8/Abeilles8/blob/main/custom/icon/header_.png"></div>
 <img src="https://komarev.com/ghpvc/?username=Abeilles8&color=blueviolet">
 
+<img src="https://metrics.lecoq.io/Abeilles8?template=classic&isocalendar=1&stars=1&isocalendar.duration=full-year&stars.limit=4&config.timezone=Asia%2FTokyo">
+
+
  🌱 I’m currently learning **Ruby on Rails**  
  
 ---
@@ -31,9 +34,3 @@
  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Abeilles8&show_icons=true&theme=outrun" alt="Abeilles8" />
  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abeilles8&show_icons=true&theme=dracula" alt="Abeilles8" />
 </i>
-
----
-
-<h2 align="left">🎧Spotify</h2>
-
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bob.877&cover_image=true&theme=default)](https://open.spotify.com/user/bob.877)
