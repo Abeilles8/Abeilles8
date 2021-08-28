@@ -4,9 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=Abeilles8&color=blueviolet">
 
 <!--metrics_gitprofile-->
-<div align="center">
- <img src="https://metrics.lecoq.io/abeilles8?template=classic&isocalendar=1&stars=1&achievements=1&isocalendar.duration=full-year&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTokyo" width="600px">
-</div>
+<div align="center"><a href="https://github.com/Abeilles8">
+ <img  width="600px" src="https://metrics.lecoq.io/abeilles8?template=classic&isocalendar=1&stars=1&achievements=1&isocalendar.duration=full-year&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTokyo" >
+</a></div>
 <div align="right">
  <img align="" alt="GIF" height="270px" src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif?cid=ecf05e47sbd3jhqn0nbjusu7e4hq72hf66gbrzhquczr5ehm&rid=giphy.gif&ct=s">
 </div>
@@ -69,3 +69,6 @@
 		
 		
 <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b76113d554215d2791d208d87299dd876f707af046308&rid=giphy.gif&ct=s">
+
+<!-- Snaske -->
+<img align="center" alt="Snake Game" width="100%" src="https://github.com/Abeilles8/Abeilles8/blob/output/github-contribution-grid-snake.svg" />
