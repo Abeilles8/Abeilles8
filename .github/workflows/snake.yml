@@ -1,0 +1,53 @@
+# Snake 
+
+name: Generate Snake
+
+# このActionは6時間ごとに実行します
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+
+  # このコマンドを使用すると、Actionタブから自動的にActionを実行します
+  workflow_dispatch:
+  
+  push:
+
+# このworkflowのrunの順番
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Github_user_nameの投稿グラフからSnake gameを生成し、svgアニメーションをsvg_out_pathに出力します
+      - name: ganerate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: abeilles8
+          # gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      
+      # buildの状態を表示し、Debugをしやすくします
+      - run: git status
+      
+      # 変更をPushします
+      - name: Push changes
+        uses: ad-m/github-push-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch : main
+          force: true
+          
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
